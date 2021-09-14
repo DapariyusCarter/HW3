@@ -1,0 +1,133 @@
+ #title {
+     color: purple;
+}
+
+
+        h1 {
+            color: black;
+            text-shadow: 2px 2px 5px rgb(224, 64, 211), 0 5px 30px rgb(215, 255, 105), 25px 15px 25px rgb(28, 180, 250);
+        text-align: center;
+        }
+
+
+
+nav {
+    color: yellow;
+}
+
+/* text-align: left */
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    border: 2px solid #555;
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: blue;
+  }
+
+  li {
+      text-align: left;
+      border-bottom: 2px solid purple;
+  }
+  
+
+  li a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: rgb(22, 2, 2);
+    color: orchid;
+  } 
+    
+
+
+
+p {
+    color: rgb(19, 18, 18);
+    
+}
+
+h2 {
+    color: black;
+}
+
+
+* {
+    background-color: gray;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+
+
+
+
+Body {
+    margin: 0;
+}
+
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 30%;
+    background-color: aqua;
+    position: fixed;
+    height: 30%;
+    overflow: auto;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: rgb(160, 157, 155);
+}
+
+li {
+    text-align: center;
+    border-bottom: 1px solid teal;
+}
+
+li:last-child {
+    border-bottom: none;
+}
+
+
+li a.active {
+    background-color: #555;
+    color: blue;
+} */
+
+/* Creates active color */
+/* li a:hover:not(.active) {
+    background-color: blueviolet;
+    color: white;
+} */
+
+
+
+
+
+       
+
+
+        
+            
+    
